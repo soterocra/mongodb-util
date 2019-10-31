@@ -2,6 +2,12 @@
 
 Repositório criado para **compartilhar experiências** que tive com **MongoDB**.
 
+## Antes de começar:
+
+Para utilizar algumas dessas soluções, vai ser necessário realizar o download e instalação do mongoserver e seus binários. Lá existem algumas ferramentas padrões do banco para executar os SCRIPT's deste repositório.
+
+**Download**: https://www.mongodb.com/download-center/community
+
 ## Soluções:
 
 - Importar CSV (qualquer separador) para o mongo: https://github.com/soterocra/java-mongoimport
